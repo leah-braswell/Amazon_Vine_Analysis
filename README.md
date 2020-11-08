@@ -8,7 +8,7 @@ SellBy is looking into the Amazon Vine program.  This service pays people to rev
 
 * 48 of the Vine reviews were [5-star reviews](five_stars.PNG), while 15,663 of the non-vine reviews were 5-star reviews.
 
-* [51% of the Vine reviews were five-stars](percentages.PNG), and only 39% of the non-Vine reviews were five-star reviews.
+* [51% of the Vine reviews were five-stars](percentage.PNG), and only 39% of the non-Vine reviews were five-star reviews.
 
 ## Summary
 There appears to be slight bias toward paid reviews being five-stars.  Over half of the paid reviews were five-stars, while only 39% of the unpaid reviews were five-stars.  To analyze this data further, I would chekc percentages for each star rating for paid, unpaid, and all reviews combined.  It would be helpful to see if there is any sort of bias on the lower reviews as well.

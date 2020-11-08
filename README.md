@@ -4,7 +4,7 @@
 SellBy is looking into the Amazon Vine program.  This service pays people to review products.  This could be helpful to boost sales and online presence.  SellBy would like to know if there is any bias toward positive reviews when it comes to paid vs. unpaid reviews.
 
 ## Results
-* There are a [total]('review_count.PNG') of 94 Vine (paid) and 40,471 non-Vine (unpaid) reviews.
+* There are a [total](review_count.PNG) of 94 Vine (paid) and 40,471 non-Vine (unpaid) reviews.
 
 * 48 of the Vine reviews were [5-star reviews]('five_stars.PNG'), while 15,663 of the non-vine reviews were 5-star reviews.
 
